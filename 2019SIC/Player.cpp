@@ -5,13 +5,8 @@
 #include "shot.h"
 
 void Player::Init() {
-
+	//test
 }
-
-
-
-
-
 
 
 
